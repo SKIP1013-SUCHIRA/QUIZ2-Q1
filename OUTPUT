@@ -1,0 +1,5 @@
+Enter the number of classes held: 
+10
+Enter the number of classes attended: 
+5
+You are not allowed to sit exam because your attendance is only 50.0% which is lesss then 75%
